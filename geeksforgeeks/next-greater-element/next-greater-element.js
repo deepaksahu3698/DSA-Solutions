@@ -1,2 +1,2 @@
-            while(st[st.length -1]<=arr[i] && st.length >0){
+            while(st.length >0 && arr[i]>=st[st.length -1]){
 
