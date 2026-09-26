@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 ## Stack
 |  |
