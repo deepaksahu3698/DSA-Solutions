@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
