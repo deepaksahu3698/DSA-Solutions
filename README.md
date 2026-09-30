@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0206-reverse-linked-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
