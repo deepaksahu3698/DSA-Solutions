@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0739-daily-temperatures) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
