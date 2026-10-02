@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
 |  |
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
