@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
