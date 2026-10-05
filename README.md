@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0739-daily-temperatures](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
