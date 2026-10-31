@@ -23,11 +23,11 @@ class Solution {
             return temp
         }
         
-        if(key < root.data){
-            root.left = this.insert(root.left, key) 
-        }
-        if(key >root.data){
+        if(root.data <key){
             root.right = this.insert(root.right, key) 
+        }
+        if(root.data >key){
+            root.left = this.insert(root.left, key) 
         }
         return root
         
