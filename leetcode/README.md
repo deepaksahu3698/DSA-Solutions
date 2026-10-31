@@ -85,16 +85,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 <!---LeetCode Topics End-->
