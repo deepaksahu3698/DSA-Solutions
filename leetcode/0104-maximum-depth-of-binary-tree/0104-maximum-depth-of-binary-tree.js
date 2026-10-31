@@ -12,21 +12,21 @@
  */
 var maxDepth = function(root) {
 
-    postOrder(root)
+    // postOrder(root)
 
-    function postOrder(root){
+    function maxDepth(root){
      if(root == null) {
             return 0;
         }
 
-        let lt = postOrder(root.left);
-        let rt = postOrder(root.right);
+        let lt = maxDepth(root.left);
+        let rt = maxDepth(root.right);
 
         return Math.max(lt, rt) + 1;
     }
 
 
-    return postOrder(root);
+    return maxDepth(root);
     
     
 };
