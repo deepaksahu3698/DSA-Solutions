@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
