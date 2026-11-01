@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0112-path-sum) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0112-path-sum) |
@@ -140,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
