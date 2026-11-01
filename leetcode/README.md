@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0783-search-in-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
 ## Math
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
