@@ -18,16 +18,14 @@ class Node{
 class Solution {
     findLCA(root, n1, n2) {
         // code here
-        if( root == null) return null
-        
-        let curr = root.data
-        
-        if(n1.data< curr && n2.data < curr){
-       return     this.findLCA(root.left, n1, n2)
+         if( root == n1 || root == n2 || root == null){
+            return root
         }
-        if(n1.data> curr && n2.data >curr){
-          return  this.findLCA(root.right, n1, n2)
-        }
-        return root
+        let leftNode = this.findLCA(root.left, n1, n2)
+        let rightNode = this.findLCA(root.right, n1, n2)
+        
+        if( leftNode == null) return rightNode
+        if( rightNode == null) return leftNode
+         return root
     }
 }
