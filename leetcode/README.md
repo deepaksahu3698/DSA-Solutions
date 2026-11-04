@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
