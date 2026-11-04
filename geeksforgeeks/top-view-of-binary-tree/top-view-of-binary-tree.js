@@ -23,14 +23,14 @@ class Solution {
             
             
             let [node ,hd] =queue.shift()
-            
+             if(!map.has(hd)){
+                map.set(hd,node.data)
+            }
            
             if(node.left != null){
                 queue.push([node.left,hd-1])
             }
-             if(!map.has(hd)){
-                map.set(hd,node.data)
-            }
+            
             if(node.right != null){
                 queue.push([node.right,hd+1])
             }
