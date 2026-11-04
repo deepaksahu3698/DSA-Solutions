@@ -13,44 +13,42 @@
 var verticalTraversal = function(root) {
     
     let ans =[]
-       if (root === null) return [];
-    let queue = [[root,0,0]]
+    let queue =[[root,0,0]]
     let map = new Map()
-
     while(queue.length !=0){
-       
+
+    let [node,row,hd] = queue.shift()
+     
+     if(!map.has(hd)){
+        map.set(hd,[])
+     }
+     
+     map.get(hd).push([row,node.val])
     
-    let [value,row,hd] = queue.shift()
+
+     if(node.left !==null){
+         queue.push([node.left,row+1,hd-1])
+     }
+     if(node.right != null){
+        queue.push([node.right,row+1,hd+1])
+     }
+
+    }
+
+    let sortedkey = [...map].sort((a,b)=>a[0]-b[0])
+    for(const [hd,node] of sortedkey){
+
+       node.sort((a,b)=>{
+       if(a[0] != b[0]){
+        return a[0]-b[0]
+       }
+       return a[1]-b[1] })
+       let cvalue = node.map(a=>a[1])
+       ans.push(cvalue)
+
     
- if (!map.has(hd)) {
-    map.set(hd, [[row, value.val]]);
-} else {
-    map.get(hd).push([row, value.val]);
-}
-    if(value.left != null) queue.push([value.left,row+1,hd-1])
-    if(value.right != null) queue.push([value.right,row+1,hd+1])
-
-
-    }
-const sortedKeys = [...map.keys()].sort((a, b) => a - b);
-    for(const key of sortedKeys){
-      let k = map.get(key)
-    k.sort((a,b)=>{
-  
- if (a[0] !== b[0]) {
-        return a[0] - b[0];
-    }
-    return a[1] - b[1];
-
-    })
-    let arrr =[]
-    for(const op of k){
-arrr.push(op[1])
-    }
-
-    ans.push(arrr)
-
-
     }
     return ans
+
+
 };
