@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
