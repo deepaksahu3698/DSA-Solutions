@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
 | [0303-range-sum-query-immutable](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -168,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
