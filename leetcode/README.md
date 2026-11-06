@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
+| [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
