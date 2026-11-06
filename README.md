@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
 | [0303-range-sum-query-immutable](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0148-sort-list) |
 ## Sorting
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0164-maximum-gap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
