@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1704-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1704-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
