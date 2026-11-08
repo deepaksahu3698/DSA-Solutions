@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1704-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
