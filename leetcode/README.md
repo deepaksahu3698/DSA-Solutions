@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0074-search-a-2d-matrix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
@@ -197,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0208-implement-trie-prefix-tree) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
