@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -205,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
