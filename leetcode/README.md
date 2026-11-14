@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1285-balance-a-binary-search-tree) |
 ## Binary Lifting
@@ -206,9 +208,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
