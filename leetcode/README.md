@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1704-special-positions-in-a-binary-matrix) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [1256-rank-transform-of-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
+| [1256-rank-transform-of-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
