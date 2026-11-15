@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0319-bulb-switcher) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
