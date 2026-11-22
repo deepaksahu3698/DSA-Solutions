@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0234-palindrome-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0295-find-median-from-data-stream) |
 ## Trie
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0319-bulb-switcher) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deepaksahu3698/DSA-Solutions/tree/master/LeetCode/0146-lru-cache) |
 <!---LeetCode Topics End-->
